@@ -4,3 +4,4 @@ smile 3 X_X
 smile 4 =b
 smile 5 =p
 smile 6 -_-
+smile 7 :)
